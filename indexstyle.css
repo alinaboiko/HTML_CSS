@@ -1,0 +1,32 @@
+main {
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 30px 100px;
+    margin-top: 162px;
+    background-color:white;
+}
+.div_aboutImg{
+    flex-grow: 1;
+    padding-right: 10px;
+    width: auto;
+    height: 460px;
+}
+.text{
+    flex-grow: 1;
+    text-align:left;
+    width: 370px;
+    height: 460px;
+}
+.aboutImg{
+    float: right;
+    padding-right: 50px;
+    margin: 0px;
+    width: 370px;   
+}
+p{
+    margin-top: 0px;
+    word-spacing: 4px;
+    width: 400px; 
+}

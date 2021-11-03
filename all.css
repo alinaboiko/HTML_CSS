@@ -1,0 +1,36 @@
+body {
+    background-color:white;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white; 
+    width: auto;
+    padding: 40px 65px;
+    border-bottom: 1px solid rgb(223, 217, 217);
+}
+nav{
+    text-align: center;
+    
+    list-style-type: none;
+    margin: auto;
+    padding: 0PX;
+    width: auto;
+    overflow: hidden;
+}
+.headerImg{
+    padding: 0px;
+    width: 500px;
+    height: 42,2px;
+}
+a {
+    float:left;
+    display: block;
+    color: black;
+    padding:14px;
+    text-decoration: none;
+    background-color: white;
+    font-size: 14px;
+}
